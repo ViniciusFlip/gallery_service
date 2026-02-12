@@ -1,0 +1,11 @@
+ 
+ .containerFlex {
+      display: flex; 
+      flex-wrap: wrap;
+      gap: 1.5rem;
+    }
+@media(min-width:1000px){
+  .containerFlex {
+      flex-wrap: nowrap;
+    }
+}
