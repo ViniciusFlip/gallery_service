@@ -4,7 +4,7 @@
         "title":"Seguro Flix",
         "description":"description",
         "category":"Web Wordpress",
-        "coverImage":"/public/seguro_flix_mockup.png",
+        "coverImage":"/projects/seguro_flix_mockup.png",
         "url":"https://aqua-elephant-869860.hostingersite.com/",
         "gallery":[],
         "techs":["Wordpress","Elementor","JetEngine"]
@@ -14,7 +14,7 @@
         "title":"Site Senna Tower",
         "description":"description",
         "category":"Web Wordpress",
-        "coverImage":"/public/seguro_flix_mockup02.png",
+        "coverImage":"/projects/seguro_flix_mockup02.png",
         "url":"https://pravdarealty.com.br/empreendimento/senna-tower/",
         "gallery":[],
         "techs":["Wordpress","Elementor","JetEngine"]
@@ -24,7 +24,7 @@
         "title":"Site Omega Financeira",
         "description":"description",
         "category":"Web Wordpress",
-        "coverImage":"/public/omega_tributaria_mockup.png",
+        "coverImage":"/projects/omega_tributaria_mockup.png",
         "url":"https://wheat-chough-976097.hostingersite.com/",
         "gallery":[],
         "techs":["Wordpress","Elementor","JetEngine"]
