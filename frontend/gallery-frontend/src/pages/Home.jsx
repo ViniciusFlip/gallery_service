@@ -16,7 +16,7 @@ export default function Home() {
 
   return (
     <main>
-      <h1>Meu Portfólio</h1>
+      <h1>Minha Galeria</h1>
 
       {loading && <p>Carregando projetos...</p>}
 
