@@ -9,6 +9,16 @@
         "gallery":[],
         "techs":["Wordpress","Elementor","JetEngine"]
 
-   } 
+   },{
+        "id":"2",
+        "title":"Senna Tower",
+        "description":"Landing page do SeguroFlix desenvolvida por mim, com foco em UX/UI, conversão e clareza da oferta, criada e integrada em WordPress utilizando Elementor.",
+        "category":"Web Wordpress",
+        "coverImage":"projects/pravda_senna_tower.png",
+        "url":"https://aqua-elephant-869860.hostingersite.com/",
+        "gallery":[],
+        "techs":["Wordpress","Elementor","JetEngine"]
+
+   }  
   
 ]
