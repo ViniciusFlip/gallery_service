@@ -1,15 +1,5 @@
 [
   {
-        "id":"1",
-        "title":"Seguro Flix",
-        "description":"Landing page do SeguroFlix desenvolvida por mim, com foco em UX/UI, conversão e clareza da oferta, criada e integrada em WordPress utilizando Elementor.",
-        "category":"Web Wordpress",
-        "coverImage":"projects/seguro_flix_mockup.png",
-        "url":"https://aqua-elephant-869860.hostingersite.com/",
-        "gallery":[],
-        "techs":["Wordpress","Elementor","JetEngine"]
-
-   },{
         "id":"2",
         "title":"Senna Tower",
         "description":"Landing page do SeguroFlix desenvolvida por mim, com foco em UX/UI, conversão e clareza da oferta, criada e integrada em WordPress utilizando Elementor.",
@@ -19,6 +9,26 @@
         "gallery":[],
         "techs":["Wordpress","Elementor","JetEngine"]
 
-   }  
+   },{
+        "id":"2",
+        "title":"Seguro Flix",
+        "description":"Landing page do SeguroFlix desenvolvida por mim, com foco em UX/UI, conversão e clareza da oferta, criada e integrada em WordPress utilizando Elementor.",
+        "category":"Web Wordpress",
+        "coverImage":"projects/seguro_flix_mockup.png",
+        "url":"https://aqua-elephant-869860.hostingersite.com/",
+        "gallery":[],
+        "techs":["Wordpress","Elementor","JetEngine"]
+
+   },{
+        "id":"3",
+        "title":"DecolaTudo.Site",
+        "description":"Landing page do SeguroFlix desenvolvida por mim, com foco em UX/UI, conversão e clareza da oferta, criada e integrada em WordPress utilizando Elementor.",
+        "category":"Web Wordpress",
+        "coverImage":"projects/decolaSite.png",
+        "url":"https://aqua-elephant-869860.hostingersite.com/",
+        "gallery":[],
+        "techs":["Wordpress","Elementor","JetEngine"]
+
+   }
   
 ]
